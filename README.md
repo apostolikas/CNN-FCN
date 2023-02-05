@@ -7,7 +7,7 @@ This repository contains the code for my Master's thesis at the Democritus Unive
 
 In the folder models, you can find all the different architectures used. 
 
-In order to run the experiments, you can run "/scripts/train_mnist_cnn.py"
+In order to run the experiments, you can run "/scripts/train_mnist_cnn.py" or any other file in the "scripts" folder.
 
 ## Main goal
 
