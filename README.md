@@ -5,7 +5,9 @@
 This repository contains the code for my Master's thesis at the Democritus University of Thrace. The title of the thesis is "Development of a hybrid classifier using Convolutional Neural Networks and Fuzzy Cognitive Networks".  As a convolutional neural network, I will use the LeNet-5 architecture and its aim is to extract features from the input images. The classification is done by the Fuzzy Cognitive Network. In this way, the last layer of the LeNet-5 is removed and replaced by the FCN. 
 
 
-In the folder models, you can find all the different architectures used. In order to run the experiments, you can run "/scripts/train_mnist_cnn.py"
+In the folder models, you can find all the different architectures used. 
+
+In order to run the experiments, you can run "/scripts/train_mnist_cnn.py"
 
 ## Main goal
 
